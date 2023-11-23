@@ -86,17 +86,17 @@
 
 ## API 명세서
 
-![API 명세서](https://github.com/Sleep-Mate/sleep-mate/assets/111489407/f48d3ab7-efbb-4e7b-aceb-023fc66b20b2)
+![API 명세서](https://github.com/Sleep-Mate/.github/assets/111489407/2c78f90a-188c-44fc-a6e9-46d8c3a01a07)
 
 ## ERD
 
-![erd설계도](https://github.com/Sleep-Mate/sleep-mate/assets/111489407/7957d490-6476-43e2-853b-35dba4361a1c)
+![erd설계도](https://github.com/Sleep-Mate/.github/assets/111489407/0f5d44a0-e9bc-4e75-8e2f-bc1eb9511bcd)
 
 <br/>
 
 ## 시스템 구조도
 
-![시스템구조도](https://github.com/Sleep-Mate/sleep-mate/assets/111489407/b83b3fd5-76c0-4336-9f54-d9e6b3f0a94d)
+![시스템구조도](https://github.com/Sleep-Mate/.github/assets/111489407/9f5b117d-a242-48ef-89c8-c9372cddd32b)
 
 <br/>
 
