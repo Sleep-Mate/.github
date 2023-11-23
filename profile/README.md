@@ -20,10 +20,10 @@
 # :sparkles: 기능 소개
 
 ### 입장
-<span><img src="https://github.com/Sleep-Mate/sleep-mate/assets/111489407/8f208464-fe08-4245-a333-4dd646e603bd" width="200"/></span>
-<span><img src="https://github.com/Sleep-Mate/sleep-mate/assets/111489407/ddd5c090-99bc-4f7f-a31a-c6e0c8beefa5" width="200"/></span>
-<span><img src="https://github.com/Sleep-Mate/sleep-mate/assets/111489407/01020371-b00a-4b57-94b2-5ed7a9751e04" width="200"/></span>
-<span><img src="https://github.com/Sleep-Mate/sleep-mate/assets/111489407/5929b33f-df1f-4c0b-92f4-e023240a29c1" width="200"/></span>
+<span><img src="https://github.com/Sleep-Mate/.github/assets/111489407/c7365828-75e0-4fb2-88b9-730289a9c8aa" width="200"/></span>
+<span><img src="https://github.com/Sleep-Mate/.github/assets/111489407/f71da312-2ae0-4a16-81ff-4ac1204db117" width="200"/></span>
+<span><img src="https://github.com/Sleep-Mate/.github/assets/111489407/182aaed0-9adf-47c9-9c1d-3ef8e1aff4a4" width="200"/></span>
+<span><img src="https://github.com/Sleep-Mate/.github/assets/111489407/f18c5f67-0b35-44cd-8425-f102d6f72b74" width="200"/></span>
 
 
 ### 자러가기
