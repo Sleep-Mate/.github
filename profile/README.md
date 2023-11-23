@@ -27,20 +27,19 @@
 
 
 ### 자러가기
-<span><img src="https://github.com/Sleep-Mate/sleep-mate/assets/111489407/5441cd6f-d03b-4f22-a71a-bdb176898d93" width="200" height="430" /></span>
-<span><img src="https://github.com/Sleep-Mate/sleep-mate/assets/111489407/294c0df0-a97e-4b0a-83d2-737a889eaf42" width="200" height="430"/></span>
-<span><img src="https://github.com/Sleep-Mate/sleep-mate/assets/111489407/b08fe8d5-cc06-40db-9fb6-58804ae5c544" width="200" height="430"/></span>
-<span><img src="https://github.com/Sleep-Mate/sleep-mate/assets/111489407/e639b247-e267-48af-b04d-e76e8da9696f" width="200" height="430"/></span>
+<span><img src="https://github.com/Sleep-Mate/.github/assets/111489407/f2431d71-4df1-4615-bdfc-1a54a7a2c921" width="200" height="430" /></span>
+<span><img src="https://github.com/Sleep-Mate/.github/assets/111489407/1a8a7300-9904-41b6-bd3c-b9c087fd51c4" width="200" height="430"/></span>
+<span><img src="https://github.com/Sleep-Mate/.github/assets/111489407/b7b625f2-13c7-4c55-aad0-56bca7fa20cf" width="200" height="430"/></span>
+<span><img src="https://github.com/Sleep-Mate/.github/assets/111489407/d84d060e-b2ac-42d0-9cd8-10a2cb89acc7" width="200" height="430"/></span>
 
 
 ### 수면리포트
-<span><img src="https://github.com/Sleep-Mate/sleep-mate/assets/111489407/1271c037-1b4e-4185-8591-6bb7c1789c55" width="200" height="430" /></span>
-<span><img src="https://github.com/Sleep-Mate/sleep-mate/assets/111489407/ba20f2db-4ee0-4021-a564-dad5c1843e46" width="200" height="430"/></span>
-<span><img src="https://github.com/Sleep-Mate/sleep-mate/assets/111489407/ba20f2db-4ee0-4021-a564-dad5c1843e46" width="200" height="430"/></span>
+<span><img src="https://github.com/Sleep-Mate/.github/assets/111489407/ca6a4bc6-a6b8-4d13-b2d4-91a89e008c82" width="200" height="430" /></span>
+<span><img src="https://github.com/Sleep-Mate/.github/assets/111489407/85e0e507-415a-4f48-ae93-e125d1f1ab9d" width="200" height="430"/></span>
+<span><img src="https://github.com/Sleep-Mate/.github/assets/111489407/dad34acb-deea-4277-83ca-c2b48fa92345" width="200" height="430"/></span>
 
-
-<span><img src="https://github.com/Sleep-Mate/sleep-mate/assets/111489407/c0c2f70b-af9d-4e4e-b459-c6bfb6f8649c" width="200" height="430"/></span>
-<span><img src="https://github.com/Sleep-Mate/sleep-mate/assets/111489407/030001fb-7bf9-4337-8456-bb1b036b7565" width="200" height="430"/></span>
+<span><img src="https://github.com/Sleep-Mate/.github/assets/111489407/bcebc9f2-76a5-40ee-8b72-388f6efd859f" width="200" height="430"/></span>
+<span><img src="https://github.com/Sleep-Mate/.github/assets/111489407/82e1988f-00c2-4141-8ac7-c842fdde4e9b" width="200" height="430"/></span>
 
 
 
